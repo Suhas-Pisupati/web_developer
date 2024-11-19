@@ -601,7 +601,7 @@ input:checked + .slider:before {
     
   }
   
-  .btn {
+  .nav-book-btn {
     display: none;
   }
   .ri-menu-line {
